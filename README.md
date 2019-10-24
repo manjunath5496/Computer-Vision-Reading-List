@@ -36,8 +36,6 @@
 
 <li>[Estimating Gaussian Mixture Densities with EM: A Tutorial - Tomasi] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(17).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
 
-<li>[A Short Tutorial on GMMs] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(18).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
-
 <li>[A Gentle Tutorial of the EM Algorithm and its Application to Parameter Estimation for GMMs and HMMs] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(19).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
 
 <li>[Tutorial on Mixture Models] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(20).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
