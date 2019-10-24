@@ -21,3 +21,13 @@
 <p>[Computer Vision: Models, Learning, and Inference (Answers Booklet for Students)] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(8).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</p>
 </li>
 </ul>
+</br>
+<h2>Lecture Notes:</h2>
+<ul>
+<li>[Gaussian Mixtures and the EM Algorithm] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(9).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
+<li>[EM Clarification] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(10).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
+<li>[EM Derivation, Proof that EM works] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(11).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
+<li>[GMM and K-Means] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(12).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
+<li>[GMM and EM Intro] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(13).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
+<li>[Mixture of Gaussians Lecture] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(14).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
+</ul>
