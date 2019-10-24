@@ -8,3 +8,16 @@
 <li><a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(5).pdf" target="_blank" style = "text-decoration:none;">Shape and motion from image streams under orthography: A factorization method - Seminal Work on Factorization based Approaches for Structure Recovery</a></li>
 
 </ul>
+</br>
+<h2>Books: </h2>
+<ul>
+<li>
+<p>[Computer Vision: Models, Learning, and Inference] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/crv(6).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</p>
+</li>
+<li>
+<p>[Computer Vision: Models, Learning, and Inference (Algorithms Booklet)] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/crv(7).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</p>
+</li>
+<li>
+<p>[Computer Vision: Models, Learning, and Inference (Answers Booklet for Students)] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/crv(8).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</p>
+</li>
+</ul>
