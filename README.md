@@ -49,3 +49,16 @@
 
 <li>[A Unifying Review of Linear Gaussian Models] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(25).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
 </ul>
+
+</br>
+
+<h2>Course Material:  </h2>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(26).pdf" target="_blank" style = "text-decoration:none;">Mathematical Foundations of Computer Graphics and Vision</a></li>
+</ul>
+
+
+
+
+
