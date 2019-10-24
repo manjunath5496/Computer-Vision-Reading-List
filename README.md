@@ -42,11 +42,10 @@
 
 <li>[Tutorial on Mixture Models] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(20).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
 
-<li>[Mixture Models and EM] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(21).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
+<li>[Introduction to Graphical Models, Belief Propagation] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(21).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
 
 <li>[Mixture of Gaussians Tutorial] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(22).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
 
-<li>[An Introduction to Mixture Models - Frank Picard] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(23).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
 
 <li>[Mixture Models] (<a href="https://github.com/manjunath5496/Computer-Vision-Reading-List/blob/master/cvr(24).pdf" target="_blank" style = "text-decoration:none;">Download</a>)</li>
 
